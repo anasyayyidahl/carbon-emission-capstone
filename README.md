@@ -1,35 +1,20 @@
-# carbon-emission-capstone
-Capstone Project: Analisis Carbon Emission
-Carbon Emission Analysis
+# Carbon Emission Analysis
 
-Proyek ini menganalisis data emisi karbon untuk menemukan pola, tren, dan insight yang berguna.
+##  Project Overview
+Proyek ini bertujuan untuk menganalisis data emisi karbon dan memahami pola serta tren yang terjadi. Analisis dilakukan untuk memberikan gambaran mengenai faktor-faktor yang memengaruhi emisi serta rekomendasi untuk pengurangan emisi di masa depan.  
 
->> Tujuan
+##  Raw Dataset
+Dataset utama yang digunakan tersedia pada file:  
+[Carbon Emission.csv](./Carbon%20Emission.csv)
 
-Eksplorasi Data (EDA)
+##  Insights & Findings
+- Emisi karbon cenderung meningkat seiring pertumbuhan industri dan transportasi.  
+- Faktor utama penyumbang emisi berasal dari sektor energi dan penggunaan bahan bakar fosil.  
+- Beberapa negara menunjukkan tren penurunan emisi melalui kebijakan energi terbarukan.  
+- Data menunjukkan potensi besar untuk mengurangi emisi melalui efisiensi energi dan adopsi teknologi hijau.  
 
-Visualisasi tren emisi
-
-Insight dan rekomendasi sederhana
-
->> Tools
-
-Python (pandas, numpy, matplotlib, seaborn)
-
-Jupyter Notebook
-
->> Cara Menjalankan
-
-Clone repo
-
-Install requirements
-
-Jalankan Jupyter Notebook
-
->> Hasil
-
-Grafik tren emisi karbon
-
-Faktor penyumbang emisi utama
-
-Rekomendasi pengurangan emisi
+##  AI Support
+Analisis dan insight diperkuat dengan bantuan AI (menggunakan model dari **Replicate API** dan **Google Colab**) untuk:
+- Melakukan exploratory data analysis (EDA).  
+- Menyusun ringkasan otomatis dari pola data.  
+- Memberikan rekomendasi berbasis data untuk strategi pengurangan emisi.  
